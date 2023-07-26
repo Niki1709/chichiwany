@@ -1,3 +1,3 @@
 # chichiwany
 Обучалка
-https://stepik.org/course/575/syllabus
+Здесь будут храниться всякие штуки из курса https://stepik.org/course/575/syllabus
